@@ -69,3 +69,10 @@ group :test do
   gem "capybara"
   gem "cuprite"
 end
+
+gem "solidus_auth_devise"
+
+gem "solidus_core", "~> 3.2"
+gem "solidus_backend", "~> 3.2"
+gem "solidus_api", "~> 3.2"
+gem "solidus_sample", "~> 3.2"
